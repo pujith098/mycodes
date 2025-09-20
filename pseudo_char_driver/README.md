@@ -16,20 +16,6 @@ The driver features:
 
 ---
 
-## Directory Structure
-
-
-pseudo\_char\_driver/
-├── Makefile
-├── README.md
-├── simple\_char\_driver\_templete.c
-├── simple\_char\_driver\_templete.ko
-├── psedo\_char\_driver\_test\_appilication.c
-└── Module.symvers
-
-````
-
----
 
 ## Requirements
 
@@ -128,9 +114,9 @@ The test application performs the following:
 
 To remove compiled files and clean the directory:
 
-```bash
+
 make clean
-```
+
 
 ---
 
