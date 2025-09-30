@@ -24,5 +24,5 @@ It is designed for practice and quick revision.
 
 ## 🔹 Run Program
 ```bash
-python3 all_concepts.py
+python3 python_practice.py
 
