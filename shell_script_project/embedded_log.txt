@@ -1,0 +1,16 @@
+2025-10-16 12:21:39 | Temp: 0°C | Humidity: 0% | Light: 0 Lux | Fan: OFF | LED: ON | Dehumidifier: OFF
+2025-10-16 12:21:42 | Temp: 0°C | Humidity: 0% | Light: 0 Lux | Fan: OFF | LED: ON | Dehumidifier: OFF
+2025-10-16 12:22:05 | Temp: 0°C | Humidity: 0% | Light: 0 Lux | Fan: OFF | LED: ON | Dehumidifier: OFF
+2025-10-16 12:22:07 | Temp: 0°C | Humidity: 0% | Light: 0 Lux | Fan: OFF | LED: ON | Dehumidifier: OFF
+2025-10-16 12:24:40 | Temp: 0°C | Humidity: 0% | Light: 0 Lux | Fan: OFF | LED: ON | Dehumidifier: OFF
+2025-10-16 12:24:43 | Temp: 0°C | Humidity: 0% | Light: 0 Lux | Fan: OFF | LED: ON | Dehumidifier: OFF
+2025-10-16 12:24:45 | Temp: 0°C | Humidity: 0% | Light: 0 Lux | Fan: OFF | LED: ON | Dehumidifier: OFF
+2025-10-16 12:24:47 | Temp: 0°C | Humidity: 0% | Light: 0 Lux | Fan: OFF | LED: ON | Dehumidifier: OFF
+2025-10-16 12:24:49 | Temp: 0°C | Humidity: 0% | Light: 0 Lux | Fan: OFF | LED: ON | Dehumidifier: OFF
+2025-10-16 12:24:52 | Temp: 0°C | Humidity: 0% | Light: 0 Lux | Fan: OFF | LED: ON | Dehumidifier: OFF
+2025-10-16 12:24:54 | Temp: 0°C | Humidity: 0% | Light: 0 Lux | Fan: OFF | LED: ON | Dehumidifier: OFF
+2025-10-16 12:25:54 | Temp: 97°C | Humidity: 18% | Light: 894 Lux | Fan: ON | LED: OFF | Dehumidifier: OFF
+2025-10-16 12:25:57 | Temp: 5°C | Humidity: 63% | Light: 362 Lux | Fan: OFF | LED: OFF | Dehumidifier: OFF
+2025-10-16 12:27:10 | Temp: 2°C | Humidity: 7% | Light: 344 Lux | Fan: OFF | LED: OFF | Dehumidifier: OFF
+2025-10-16 12:27:13 | Temp: 59°C | Humidity: 12% | Light: 973 Lux | Fan: OFF | LED: OFF | Dehumidifier: OFF
+2025-10-16 12:27:15 | Temp: 77°C | Humidity: 11% | Light: 998 Lux | Fan: ON | LED: OFF | Dehumidifier: OFF
