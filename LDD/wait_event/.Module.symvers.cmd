@@ -1,1 +1,0 @@
-savedcmd_/home/dell/pujith/ldd/wait_evrnt/Module.symvers :=  scripts/mod/modpost -M -m -a      -o /home/dell/pujith/ldd/wait_evrnt/Module.symvers -T /home/dell/pujith/ldd/wait_evrnt/modules.order -i Module.symvers -e 
