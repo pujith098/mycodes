@@ -1,0 +1,1 @@
+savedcmd_/home/dell/pujith/ldd/sysfs/Module.symvers :=  scripts/mod/modpost -M -m -a      -o /home/dell/pujith/ldd/sysfs/Module.symvers -T /home/dell/pujith/ldd/sysfs/modules.order -i Module.symvers -e 
