@@ -23,48 +23,22 @@ The repository is organized into directories based on language and project type,
 
 ### 1. `c`
 **Purpose:** C programming practice and embedded C projects.  
-**Files:**  
-
-| File Name | Description | Key Functions/Features | Notes |
-|-----------|-------------|-----------------------|-------|
-| `prog1.c` | Example C program | Main function, basic I/O | _(fill in)_ |
-| `prog2.c` | Example C program | Functions, arrays | _(fill in)_ |
-| … | … | … | … |
 
 ---
 
 ### 2. `pseudo_char_driver`
 **Purpose:** Linux kernel pseudo character driver examples.  
-**Files:**  
-
-| File Name | Description | Key Functions/Features | Notes |
-|-----------|-------------|-----------------------|-------|
-| `pseudo_char.c` | Character device driver | init, read, write, exit | _(fill in)_ |
-| … | … | … | … |
 
 ---
 
 ### 3. `python`
 **Purpose:** Python scripts and projects for automation and learning.  
-**Files:**  
-
-| File Name | Description | Key Libraries Used | Notes |
-|-----------|-------------|-----------------|-------|
-| `script1.py` | Sample Python script | e.g., OpenCV, requests | _(fill in)_ |
-| `script2.py` | Sample automation script | os, sys | _(fill in)_ |
-| … | … | … | … |
 
 ---
 
 ### 4. `shell_script_proctice`
 **Purpose:** Shell scripting practice exercises.  
-**Files:**  
 
-| File Name | Description | Key Commands/Techniques Used | Notes |
-|-----------|-------------|-----------------------------|-------|
-| `array.sh` | Array practice | Loops, array manipulation | _(fill in)_ |
-| `arth_operator.sh` | Arithmetic operations | Shell arithmetic, variables | _(fill in)_ |
-| … | … | … | … |
 
 ---
 
