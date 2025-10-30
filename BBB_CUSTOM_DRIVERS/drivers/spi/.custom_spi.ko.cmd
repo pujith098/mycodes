@@ -1,0 +1,1 @@
+savedcmd_/home/debian/drivers/spi/custom_spi.ko := ld -r -EL -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T scripts/module.lds -o /home/debian/drivers/spi/custom_spi.ko /home/debian/drivers/spi/custom_spi.o /home/debian/drivers/spi/custom_spi.mod.o /home/debian/drivers/spi/.module-common.o
