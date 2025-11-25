@@ -71,9 +71,8 @@ int isPalindrome(Node *head) {
     while (fast != NULL && fast->next != NULL) {
         slow = slow->next;
         fast = fast->next->next;
-
+	index++;   // track actual node index
         printf("LOG: slow at index %d, data '%c'\n", index, slow->data);
-        index++;
 
         if (fast == slow) {
             printf("LOG: LOOP DETECTED!\n");
